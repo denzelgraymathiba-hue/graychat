@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842272015997",
+    "project_id": "graychat-db6a0",
+    "storage_bucket": "graychat-db6a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842272015997:android:6beb5c901b827a8c8c9314",
+        "android_client_info": {
+          "package_name": "com.grychat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842272015997-ids87ltspgevkh1qut9rohrhnab7kuv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoTwkgzLvVG9f_T5lPPcRr7PvODLgo-Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842272015997-ids87ltspgevkh1qut9rohrhnab7kuv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
